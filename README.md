@@ -13,9 +13,6 @@
 
 🏔️ Mountain Climbing, Rock Climbing, Backpacking
 
-<a href="http://ajin.icu">
-  <img width=450px src="https://github-readme-stats.vercel.app/api?username=ajinChen&show_icons=true&count_private=true&theme=onedark" /></a>
-
 <!--
 **ajinChen/ajinChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="http://ajin.icu">
+  <img width=450px src="https://github-readme-stats.vercel.app/api?username=ajinChen&show_icons=true&count_private=true&theme=onedark" />
+
 -->
