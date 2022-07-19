@@ -1,5 +1,5 @@
 ### About Me 👋 <a href="http://ajin.icu">
-  <img align="right" width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinChen&layout=compact&langs_count=6&hide=php,less,javascript,css,scss,html, jupyter notebook&count_private=true&theme=onedark&text_color=e4bf7a" /></a>
+  <img align="right" width=420px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinChen&layout=compact&langs_count=6&hide=php,less,javascript,css,scss,html, jupyter notebook&count_private=true&theme=onedark&text_color=e4bf7a" /></a>
 
 ⌨️ Programming: Python, Java
 
