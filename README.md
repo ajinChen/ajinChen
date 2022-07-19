@@ -2,7 +2,7 @@
 
 <a href="http://ajin.icu">
   <img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=ajinChen&show_icons=true&count_private=true&theme=onedark" />
-</a>
+</a><br>
 
 
 
