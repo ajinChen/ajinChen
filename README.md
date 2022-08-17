@@ -11,7 +11,7 @@
 
 🛠️ Infrastructure: Docker, Kubernetes, AWS
 
-🏔️ Mountain Climbing, Rock Climbing, Backpacking
+🏔️ Alpine Climbing, Rock Climbing, Backpacking
 
 <!--
 **ajinChen/ajinChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
