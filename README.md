@@ -1,5 +1,5 @@
 ### About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" width=420px src="images/top-lang-6.png" />
+<img align="right" width=400px src="images/top-lang-6.png" />
 
 ⌨️ Programming: Python, Java
 
