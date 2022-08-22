@@ -1,5 +1,5 @@
 ### About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" width=420px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinChen&layout=compact&langs_count=6&hide=php,less,javascript,css,scss,html,jupyter notebook&count_private=true&theme=onedark&text_color=e4bf7a" />
+<img align="right" width=420px src="images/top-lang.png" />
 
 ⌨️ Programming: Python, Java
 
@@ -29,5 +29,8 @@ Here are some ideas to get you started:
 
 <a href="http://ajin.icu">
   <img width=450px src="https://github-readme-stats.vercel.app/api?username=ajinChen&show_icons=true&count_private=true&theme=onedark" />
+
+<a href="http://ajin-top-lang.icu">
+  <img align="right" width=420px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinChen&layout=compact&langs_count=6&hide=php,less,javascript,css,scss,html,jupyter notebook&count_private=true&theme=onedark&text_color=e4bf7a" />
 
 -->
